@@ -380,6 +380,10 @@ table.plain {
   background: linear-gradient(to bottom, rgba(0,0,0,0) 45%, rgba(0,0,0,0.7));
 }
 
+#site-head-content {
+  z-index: 2;
+}
+
 /* Disqus Support */
 
 #disqus_thread {
